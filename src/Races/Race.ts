@@ -11,8 +11,16 @@ abstract class Race {
     return this._name;
   }
 
+  set name(name: string) {
+    this._name = name;
+  }
+
   get dexterity(): number {
     return this.dexterity;
+  }
+
+  set dexterity(dexterity: number) {
+    this.dexterity = dexterity;
   }
 
   abstract get maxLifePoints(): number;
