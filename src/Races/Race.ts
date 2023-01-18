@@ -11,10 +11,6 @@ abstract class Race {
     return this._name;
   }
 
-  set name(name: string) {
-    this._name = name;
-  }
-
   get dexterity(): number {
     return this.dexterity;
   }
