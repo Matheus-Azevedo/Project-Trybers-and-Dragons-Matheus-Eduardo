@@ -7,18 +7,18 @@ Este projeto foi desenvolvido por mim e faz parte do acervo de atividades execu
 
 Este projeto é a representação de um jogo de RPG com raças e classes diversas, cada qual com suas características, através da implementaç classes seguindo a arquitetura POO e os princípios SOLID.
 
-Funcionalidades
+## Funcionalidades
 
 -   Criação de personagens: o usuário poderá criar personagens para jogar o RPG, escolhendo uma raça e uma classe, que influenciarão suas habilidades e características.
 -   Batalha: os personagens criados poderão entrar em batalha com inimigos, onde serão avaliados os atributos e habilidades de cada um para definir o resultado da batalha.
 -   Habilidades especiais: cada raça e classe terá habilidades especiais únicas que poderão ser utilizadas em batalhas.
 
-Requisitos
+## Requisitos
 
 -   Node.js
 -   npm ou yarn
 
-Instalação
+## Instalação
 
 1.  Clone o repositório
 
@@ -35,11 +35,11 @@ npm install`
 
 4.  Crie personagens e entre em batalha!
 
-Princípios utilizados
+## Princípios utilizados
 
 -   SOLID: O projeto segue os princípios de Responsabilidade Única (SRP), Aberto-Fechado (OCP), Substituição de Liskov (LSP), Segregação de Interface (ISP) e Inversão de Dependência (DIP) para garantir a qualidade do código e facilitar sua manutenção e evolução.
 -   POO: A arquitetura do projeto é baseada em Programação Orientada a Objetos, com classes representando cada objeto do jogo e métodos para executar suas funcionalidades.
 
-Contribuição
+## Contribuição
 
 Contribuições são sempre bem-vindas! Sinta-se livre para abrir uma issue ou um pull request.
